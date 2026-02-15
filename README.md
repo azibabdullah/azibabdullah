@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**azibabdullah/azibabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Abdullah, a Computer Science student passionate about Cybersecurity and AI.  
+I’m obsessed with understanding how systems work, how they break, and how to secure them.
 
-Here are some ideas to get you started:
+These days I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity & Network Security fundamentals
+- Learning LLM's vulnerabilities and how to secure them
+- Linux and system-level understanding  
+- AI-assisted learning and automation  
+- Building security-focused and low-level projects
+
+Some stuff I work on:
+
+- Networking simulations using Cisco Packet Tracer  
+- System-level programming in C++  
+- Web-based projects with PHP & MySQL
+- Full-Stack projects with Django and RESTFUL-API's
+- Exploring ethical hacking concepts and tools  
+- AI-driven workflows for faster learning
+
+Fun Facts:
+
+- I’m deeply curious about how things work under the hood  
+- I prefer solving problems over small talk  
+- Mission: Become a Cyber & Network Security Specialist 🔐  
+
