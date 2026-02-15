@@ -3,6 +3,8 @@
 I’m Abdullah, a Computer Science student passionate about Cybersecurity and AI.  
 I’m obsessed with understanding how systems work, how they break, and how to secure them.
 
+___________________________________________________________________________________________________________
+
 These days I’m focused on:
 
 - Cybersecurity & Network Security fundamentals
@@ -10,6 +12,8 @@ These days I’m focused on:
 - Linux and system-level understanding  
 - AI-assisted learning and automation  
 - Building security-focused and low-level projects
+
+___________________________________________________________________________________________________________
 
 Some stuff I work on:
 
@@ -19,6 +23,8 @@ Some stuff I work on:
 - Full-Stack projects with Django and RESTFUL-API's
 - Exploring ethical hacking concepts and tools  
 - AI-driven workflows for faster learning
+
+___________________________________________________________________________________________________________
 
 Fun Facts:
 
