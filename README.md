@@ -14,14 +14,14 @@
 
 ---
 
-### 🛡️ About me
+###  About me
 
 - 🎓 Final-year BS Computer Science student focused on **LLM security**, **SOC operations** and **threat detection**
 - 🔬 My final year project, **SecureRAG**, defends AI assistants against prompt injection
 - 💼 Cybersecurity internships at **The Root Access Network (T.R.A.N)** and **Graxo Consulting**; web development at **PTV**
 - 🎯 Goal: a career in security engineering, protecting AI systems and the networks they run on
 
-### 🚀 Featured projects
+###  Featured projects
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -30,20 +30,20 @@
 | [**Automated Threat Intel SOAR**](https://github.com/azibabdullah/Automated-Threat-Intel-SOAR) | Automated phishing and threat-intelligence pipeline. | n8n · VirusTotal API |
 | [**Cybersecurity Portfolio**](https://github.com/azibabdullah/cybersecurity-portfolio) | Labs and projects from the Google Cybersecurity Professional Certificate. | Linux · SQL · Python · SIEM |
 
-### 📜 Certifications
+###  Certifications
 
 - **Microsoft SC-200:** Security Operations Analyst (score 905)
 - **ISC2 Certified in Cybersecurity (CC)**
 - **Google Cybersecurity Professional Certificate**
 
-### 🧰 Toolbox
+###  Toolbox
 
 **Security:** Wazuh · Microsoft Sentinel &amp; Defender · Splunk concepts · Wireshark · Nmap · Burp Suite · Cisco Packet Tracer<br>
 **AI / ML:** PyTorch · Hugging Face Transformers · DeBERTa · Sentence Transformers · ChromaDB · Ollama<br>
 **Development:** Python · C++ · Django · REST APIs · PHP &amp; MySQL · React · Git<br>
 **Automation:** n8n · PowerShell · Bash
 
-### 🔭 Right now
+###  Right now
 
 - Finishing and documenting **SecureRAG** for my final year defence
 - Going deeper on adversarial attacks against LLMs and RAG systems
